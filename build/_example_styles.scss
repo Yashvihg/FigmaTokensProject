@@ -1,0 +1,50 @@
+.Bajaj_Button {
+  scroll-behavior: scrolls;
+  .button1 {
+    scroll-behavior: scrolls;
+    background-color: #117c8a;
+    mix-blend-mode: normal;
+    .blue_pill_button {
+      color: #0f27ff;
+      mix-blend-mode: normal;
+      font-family: "RobotoRoman-Bold";
+      font-size: 24px;
+      font-weight: 700;
+      text-align: center;
+      position: absolute;
+      left: -120px;
+      top: -114px;
+    }
+  }
+
+  .button2 {
+    scroll-behavior: scrolls;
+    background-color: #b13855;
+    mix-blend-mode: normal;
+    .red_pill_button {
+      color: #ffffff;
+      mix-blend-mode: normal;
+      font-family: "RobotoRoman-Bold";
+      font-size: 24px;
+      font-weight: 700;
+      text-align: center;
+      position: absolute;
+      top: -114px;
+    }
+  }
+}
+
+.Bajaj_Button2 {
+  scroll-behavior: scrolls;
+  .YASHVI {
+    color: #ff0000;
+    mix-blend-mode: normal;
+    font-family: "null";
+    font-size: 48px;
+    font-weight: 400;
+    text-align: left;
+    position: absolute;
+    left: -93px;
+    top: -115px;
+  }
+}
